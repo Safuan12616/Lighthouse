@@ -3,9 +3,7 @@
 
 Available on my GitHub page: https://safuan12616.github.io/Lighthouse/
 
-Based on Tiny Design's css town. 
-
-Here's the full version: https://www.tinydesign.co.uk/css-town/
+Based on [Townscaper](https://www.townscapergame.com/)
 
 ## Solution
 O O o O O O O O</br>
